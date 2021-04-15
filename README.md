@@ -1,5 +1,5 @@
 # LKM-SyscallTableHook
-LKM (linux kernel module) to hook syscall function calls
+LKM (linux kernel module) to hook syscall functions
 
 
 Build the .ko (kernel object):

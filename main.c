@@ -83,7 +83,7 @@ static int __init lkmInit(void) {
 
     syscall_table = findSyscallTable();
     if (!syscall_table){
-        printk(KERN_INFO "[-] KERNEL NOT SUPPORTED :(")
+        printk(KERN_INFO "[-] KERNEL NOT SUPPORTED :(");
 		return -1;
     }
 

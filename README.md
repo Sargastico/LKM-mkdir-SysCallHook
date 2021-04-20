@@ -4,7 +4,7 @@ LKM (linux kernel module) to hook syscall functions
 
 Build the .ko (kernel object):
 ```
-git clone https://github.com/Sargastico/LKM-SyscallTableHook/edit/main/README.md && cd LKM-SyscallTableHook && make
+git clone https://github.com/Sargastico/LKM-mkdir-SysCallHook.git && cd LKM-mkdir-SysCallHook && make
 ```
 
 Load the kernel module:
